@@ -4,6 +4,8 @@
 <p align="left">
   <img alt="HomePage" src="assets\images\tela_home.png" 
   width="25%"> 
+  &nbsp;
+  &nbsp;
   <img alt="HomePageDark" src="assets\images\tela_home_dark.png" width="25%">
 </p>
 
